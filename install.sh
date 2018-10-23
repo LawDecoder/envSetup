@@ -31,6 +31,7 @@ brew cask install google-chrome
 brew cask install veracrypt
 brew cask install torbrowser
 brew cask install qbittorrent
+brew cast install inkscape
 
 #dev tools setup
 brew install zsh zsh-completions
